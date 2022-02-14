@@ -8,6 +8,6 @@ The purpose of this analysis is to conduct a research for Pewlett Hackward with 
 
 Picture above is an ERD (Entity Relationship Diagram) that was created for visualing the relationship between the each table containing datas of employees, departments,salaries, Manager, Department of Employees and Titles.
 
- ![Unique_titles](Pewlett-Hackard Analysis Folder/Unique_titles.png)
+ ![Unique_titles](https://github.com/Monsaiaung/Pewlett-Hackard-Analysis/blob/3a61ff79ac4ef0989503a57950c9d6fc8ce541d1/Pewlett-Hackard%20Analysis%20Folder/Unique_titles.png)
 - 
 
